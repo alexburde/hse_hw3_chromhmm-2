@@ -9,17 +9,17 @@
 Таблица с используемыми гистоновыми метками:
 
 | Название гистоновой метки | Имя файла |
-| ------- | ----------- |
-| H2az	| H2azAlnRep1.bam	|
-| H3k27ac |	H3k27acStdAlnRep1.bam	|
-|	H3k27me3 |	H3k27me3StdAlnRep1.bam  |
-|	H3k36me3 |	H3k36me3StdAlnRep1.bam  |
-|	H3k4me1 |	H3k4me1StdAlnRep1.bam	|
-|	H3k4me2 |	H3k4me2StdAlnRep1.bam	|
-|	H3k4me3 |	H3k4me3StdAlnRep1.bam	|
-|	H3k79me2 |	H3k79me2AlnRep1.bam	|
-| H3k9ac |	H3k9acStdAlnRep1.bam	|
-| H3k9me1 |	H3k9me1StdAlnRep1.bam	|
+| ------- | ----------------------- |
+| H2az	  | H2azAlnRep1.bam	        |
+| H3k27ac |	H3k27acStdAlnRep1.bam	  |
+|	H3k4me2 |	H3k4me2StdAlnRep1.bam   |
+|	H3k4me3 |	H3k4me3StdAlnRep1.bam   |
+|	H3k9me1 |	H3k9me1StdAlnRep1.bam	  |
+|	H4k20me1|	H4k20me1StdAlnRep1.bam	|
+|	Pol2b   |	Pol2bStdAlnRep1.bam	    |
+|	H3k27ac |	H3k27acStdAlnRep1.bam	  |
+| Ctcf    |	CtcfStdAlnRep1.bam	    |
+| H3k36me3|	H3k36me3StdAlnRep1.bam	|
 
 Полученные изображения после ChromHMM:
 
